@@ -4,14 +4,15 @@
 | -------------- | 
 | Do 5 push ups! | 
 
-I always wanted to start a fitness book with illustrating to my readers that they probably fall into the classic trap of analysis paralysis. Otherwise they would've not pick this document up.
+I always wanted to start a fitness book by illustrating to my readers that they probably fall into the classic trap of analysis paralysis. Otherwise they would have not pick this book up in the first place. Just do it!  
+Now, that this out of the way, let me explain my motivation. 
 
 ## Motivation
 
 When I was young, I was an obsessive athlete. Football, karate, krav maga, kick boxing, street workout, gymnastics. In this order, over a 15 years period. By the time I've bacam 18 my English skill started to be "ok", so I gradually gained access to more and more quality resources, those were not available to me, in my native language. I started to pay attention to my nutrition and read all of Lyle McDonald's books (by google tranlate every third word.) As my university studies become harder and harder I had to find more and more time efficient ways to exercise, so I got into street workout. I was doing that for a year, I was able to do muscle ups, human flags, a couple of seconds of handstands and handstand pushups on paralell bar. But I couldn't help but to think what I'm doing is ugly, especially my handstand.  
 Just take a look at my form. It is probably one of the best illustrations on the internet of how to do handstand incorrectly.
 
-![](https://i.imgur.com/pRNJI60.jpg)
+![](https://i.imgur.com/XxjomXd.jpg)
 
 This is when I turned to gymnastics, which as I thought about it at the time: "it's the correct way to do street workout." There were not many resources available at the time: Overcoming Gravity and GymnasticBodies Foundation series. I, for reasons I don't remember decided to start religiously follow the GymnasticBodies program. Although I was a little skeptical, because of the broscience feel and unethical marketing practices of the creators, I was very happy with it a couple of reasons: first: I didn't know anything about the proper techniques to execute the exercises and looking around me in the playground, nobody else knew, either. So I had some humility. Second: its simple programming and mastery templates made me consistently exercise for a year, without skipping any session. This was possible, not only because of psychological factors, but also, because its take it slow approach did not let me to get injured. Third: my forms drastically improved.  
 Another problem with it was: my muscle mass went slightly down, due to the lack of eccentric movements in the program.  
