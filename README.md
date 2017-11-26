@@ -23,3 +23,5 @@ Yet, I really thought I would be able to learn a stable and proper handstand wit
 "But that's enough" - I said two weeks ago. I have to start doing something now. So I fired up my old GymnasticBodies account and started the Handstand One progressions, again. From the beginning. So where am I, you might ask. Two weeks ago, I wasn't even be able to hold the first progression for even a second, which is a headstand, but with resting the knees on the arms. Now I can go over one second, so I'm soon mastering it, yet, based on my previous experience I can't help, but to think, while this is a good way to learn handstand, it may not be optimal.  
 
 This, and the my obsession with understanding and optimizing complex systems and solving difficult problems is the reason why I created this GitHub repository. I will research and build this handstand program on the fly, while I am progressing through it. I'm as far as, from being an expert as possible, so I don't recommend this program to anyone. Nevertheless, if you'd happen to like it, then feel free to contribute. Open a new issue or create a pull request.
+
+## Table Of Contents
