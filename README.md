@@ -5,7 +5,7 @@
 | Do 5 push ups! | 
 
 I always wanted to start a fitness book by illustrating to my readers that they probably fall into the classic trap of analysis paralysis. Otherwise they would have not pick this book up in the first place. Just do it!  
-Now, that this out of the way, let me explain my motivation. 
+Now, with this out of the way, let me explain my motivation. 
 
 ## Motivation
 
