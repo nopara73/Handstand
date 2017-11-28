@@ -1,29 +1,14 @@
 # Handstand
 
-| STOP!          | 
-| -------------- | 
-| Do 5 push ups! | 
+## Workout Structure
 
-I always wanted to start a fitness book by illustrating to my readers that they probably fall into the classic trap of analysis paralysis. Otherwise they would have not pick this book up in the first place. Just do it!  
-Now, with this out of the way, let me explain my motivation. 
+[Steven Low's book: Overcoming Gravity](http://stevenlow.org/overcoming-gravity/), recommends the following workout structure:  
 
-## Motivation
+1. [Warmup](Warmup/Warmup.md)
+2. [Skill Work](SkillWork/SkillWork.md)
+3. [Strength Work](StrengthWork/StrengthWork.md)
+4. [Endurance Work](EnduranceWork/EnduranceWork.md)
+5. [Flexibility Work](FlexibilityWork/FlexibilityWork.md)
 
-When I was young, I was an obsessive athlete. Football, karate, krav maga, kick boxing, street workout, gymnastics. In this order, over a fifteen years period. By the time I had became eighteen years old, my English skills started to become "ok", so I gradually gained access to more and more quality resources, those were not available to me, in my native language. I started to pay attention to my nutrition and read all of Lyle McDonald's books by google tranlating every third word. As I progressed farther and farther with my university curriculum, I had to find more and more time efficient ways to exercise, so I got into street workout. I was doing that for a year, I was able to do muscle ups, human flags, a couple of seconds of handstands and handstand pushups on paralell bar. But I could not help but to think what I am doing is ugly, especially my handstand.  
-Just take a look at my form. It is probably one of the best illustrations on the internet of how to do handstand incorrectly.
-
-![](https://i.imgur.com/XxjomXd.jpg)
-
-This is why I turned to gymnastics, which as I thought about it at the time: "it is the correct way to do street workout." There were not many resources available at the time: Overcoming Gravity and GymnasticBodies Foundation series. I decided to start to follow the GymnasticBodies program. Although I was a little skeptical, because of the broscience feel and unethical marketing practices of the creators, I was very happy with it. Firstly, I did not know anything about the proper techniques to execute the exercises and looking around me in the playground, nobody else knew, either. So I had some humility. Second: its simple programming and mastery templates made me consistently exercise for a year, without skipping any session. This was possible, not only because of psychological factors, but also, because its take it slow approach did not let me to get injured. Third: my forms drastically improved.  
-Another problem with it was: my muscle mass went slightly down, due to the lack of eccentric movements in the program.  
-
-Finally the GymnasticBodies Handstand One came out and I bought the program, it may had been the first digital product I bought in my life. Yes, I torrented everything else back then. It is not easy for a university student without any income. Interestingly the price of Handstand One was exactly how much money I spent in a whole month for food and everything else. Off topic aside, even though I was doing gymnastics training for a year already, my handstand did not improve much. Then I added Handstand One to my routine and started religiously following it. Then life happened and I stopped working on the Foundation Series, but I did not neglect my daily handstand practice. Fast forward a year later I was able to do a proper wall handstand. I was able to hold my freestanding handstand for around 30 seconds at the time, though it still was not looking good.  
-Nevertheless, it is not that impressive progression. You can see people learning stable handstands from zero within a year by simply trying to do handstand a lot, without any structured training program. Anyway that was not my goal in the first place. I knew I could have learn handstand in three months, but I did not wanted a stable handstand that looks like mine in the photo above. I wanted to learn a proper one.  
-Yet, I really thought I would be able to learn a stable and proper handstand within a year. Then life happend again. I started travelling and changing my home every two weeks, I got a new obsession and I was not able to stick to any training routine, let alone proper nutrition, during the next four years. Here I am now, 30kg heavier, a busy software developer, who changes his home every month and working from cafes all over the world.  
-"But that is enough" - I said two weeks ago. I have to start doing something now. So I fired up my old GymnasticBodies account and started the Handstand One progressions, again. From the beginning. So where am I, you might ask. Two weeks ago, I was not even be able to hold the first progression for even a second, which is a headstand, but with resting the knees on the arms. Now I can go over one second, so I am soon mastering it, yet, based on my previous experience I cannot help, but to think: while this is a good way to learn handstand, it may not be optimal. A training program is just like a software: it is never finished. A training program must be maintained and continuously improved as the number of contributors, the research on the field and the knowledge of the developers grow over time. Yet, all I see in the fitness world is: someone writes a book. That book is the end all be all for a decade, when another brilliant person comes, drastically improves upon that book, takes its place and distributes the knowledge. No feedback, no contribution from the savage people whatsoever. You might say: ok, but then a forum is created by the community around that book, so how can you say there is no feedback? Well, the feedback must be found. It almost never triggers its way back to the book. The book is already printed out and distributed.  
-
-![](https://i.imgur.com/ItotrXv.jpg)
-
-This, and my obsession with understanding and optimizing complex systems and solving difficult problems is the reason why I created this GitHub repository. I will research and build this handstand program on the fly, while I am progressing through it. I am as far from being an expert as possible, so I do not recommend this program to anyone. Nevertheless, if you would happen to like it, then feel free to contribute. Open a new issue or create a pull request.
-
-## Table Of Contents
+Warmup prepares the body for workout. Working on skills is optimal after after Warmup, because it requres quality work. Strength Work is ideal, if the work is done with near maximal strength, which is most likely to be achieved after low intensity activities. The goal of Endurance Work is to endure an exercise for a longer period of time. It is nearly impossible to achieve near maximal strength after Endurance Work, which is the requirement for quality Strength Work, while endurance limits can still be effectively pushed after Strength Work.  
+[According to Paul Ingraham](https://www.painscience.com/articles/stretching.php): Stretching research shows that static stretching is not an effective warmup, in fact it may even be harmful. [Lyle McDonalds came to similar conclusions](https://www.bodyrecomposition.com/muscle-gain/warming-up-for-the-weight-room-part-1.html/), however he also notes: many of the study protocols often don’t really represent a realistic approach to training. It is most likely the best to do the relaxing stretching routine at the end of the workout.
