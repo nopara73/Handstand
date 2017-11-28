@@ -1,5 +1,9 @@
 # Handstand
 
+## Goal
+
+In the end of this tutorial, you will be able to hold a handstand for 30 seconds.
+
 ## Workout Structure
 
 [Steven Low's book: Overcoming Gravity](http://stevenlow.org/overcoming-gravity/), recommends the following workout structure:  
