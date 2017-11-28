@@ -2,7 +2,7 @@
 
 ## Goal
 
-In the end of this tutorial, you will be able to hold a handstand for 30 seconds.
+In the end of this tutorial you will be able to hold a handstand for 30 seconds.
 
 ## Workout Structure
 
